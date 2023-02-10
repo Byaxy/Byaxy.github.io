@@ -1,9 +1,13 @@
-# Techium
+# Microverse Trials
 
-![Techium, Sample website screenshop](/images/techium.png)
+### Contributors
 
-A static website created during the ALX-Frontend project using advanced HTML and CSS
+Charles Byakutaga
 
-The website is hosted on github pages and you can check the live site on the link below.
+- charlesbyaxy@gmail.com
+- [GitHub](https://github.com/Byaxy)
 
-<b>Live site link: [Techium](https://byaxy.github.io/)<b>
+Bonface Wairera
+
+- bonfacewairera5256@gmail.com
+- [GitHub](https://github.com/Byaxy)
